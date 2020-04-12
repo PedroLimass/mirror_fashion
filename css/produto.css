@@ -223,6 +223,11 @@ fieldset{
 	}
 }
 /*---- Tabela -----*/
+.Col1 {
+	width: 450px;
+	margin: 0;
+}
+
 
 table {
 	border-spacing: 0.2em;
